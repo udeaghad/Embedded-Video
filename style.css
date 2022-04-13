@@ -1,0 +1,113 @@
+.navbar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px;
+    gap: 10px;
+    
+}
+
+img {
+    height: 20px;
+}
+.thumbnail {
+    display: flex;
+    gap: 100px;
+}
+
+.views {
+    display: flex;
+   
+    
+}
+
+h1 {
+
+    color: rgb(212, 73, 73);
+    border: 2px solid red;
+    width: fit-content;
+    margin-right: 10px;
+}
+.clicks {
+    display: flex;
+    gap: 20px;
+    justify-content:center;
+    align-items: flex-end;
+    
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    
+    
+}
+
+.homenav {
+    text-decoration:none;
+    color:white;
+    font-size: 25px;    
+    padding: 5px;
+    text-align: center;
+}
+
+.navhead{
+    background-color: rgb(165, 42, 42);
+    border: 1px solid #ffffff;
+    margin: 0px;
+    width: fit-content;
+}
+
+.navhead :hover {
+    background-color: rgb(145, 7, 7);
+    width: fit-content;
+}
+
+.bar {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+.menubar {
+    margin-left: 5px;
+    margin-right: 20px;
+    
+}
+
+input {
+  float: right;
+  padding: 6px;
+  border: 1px solid black;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+  justify-self: center;
+}
+
+.sidebar {
+    width: 200px;
+    height: auto;
+    background-color: rgb(228, 222, 222);
+    border: none;
+    
+    
+    
+}
+
+.container {
+    display: flex;
+    gap: 25px;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+   
+}
+
+.links {
+  color: red;
+  font-size: 15px;
+ margin: 10px 3px;
+}
